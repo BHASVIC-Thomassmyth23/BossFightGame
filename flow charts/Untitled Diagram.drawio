@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="Z4vcSNYFLDqthoyRhnW8">
+    <mxGraphModel dx="1186" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdVnxolweU8Jy4sLVQyP-1" target="JdVnxolweU8Jy4sLVQyP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdVnxolweU8Jy4sLVQyP-2" target="JdVnxolweU8Jy4sLVQyP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdVnxolweU8Jy4sLVQyP-2" target="JdVnxolweU8Jy4sLVQyP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-2" value="Check if &quot;A&quot; key pressed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdVnxolweU8Jy4sLVQyP-4" target="JdVnxolweU8Jy4sLVQyP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-4" value="A key pressed" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-6" value="Move character left" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdVnxolweU8Jy4sLVQyP-12" target="JdVnxolweU8Jy4sLVQyP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdVnxolweU8Jy4sLVQyP-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-12" value="Check if &quot;D&quot; key pressed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="270" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdVnxolweU8Jy4sLVQyP-14" target="JdVnxolweU8Jy4sLVQyP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-14" value="D key pressed" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-16" value="Move character right" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdVnxolweU8Jy4sLVQyP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="180" as="sourcePoint" />
+            <mxPoint x="480" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
