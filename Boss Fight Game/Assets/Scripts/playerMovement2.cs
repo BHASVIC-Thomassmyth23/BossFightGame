@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class playerMovement2 : MonoBehaviour
 {
-    float speed = 3f;
+    public float speed = 3f;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,4 +24,5 @@ public class playerMovement2 : MonoBehaviour
 
         transform.position = pos; //performs the movement transformation
     } 
-}|
+    
+}
